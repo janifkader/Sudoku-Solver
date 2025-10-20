@@ -3,7 +3,6 @@ from tkinter import ttk
 import sv_ttk
 import numpy as np
 import ctypes
-from ctypes import c_int, POINTER
 
 def clear():
     for k in range(81):
